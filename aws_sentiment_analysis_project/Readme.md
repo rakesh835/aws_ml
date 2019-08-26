@@ -1,0 +1,1 @@
+In this all files related to project are contained, like main ipynb file contain main project code, predict file, train file, contain related code require for proper working and then and html file of project. 
